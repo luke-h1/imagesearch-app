@@ -1,0 +1,19 @@
+{
+  "name": "reddit-imagesearch-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "/Users/lukehowsam/srv/dev/reddit-imagesearch-app/node_modules/.bin/eslint *.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luke-h1/reddit-imagesearch-app.git"
+  },
+  "author": "Luke-h1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luke-h1/reddit-imagesearch-app/issues"
+  },
+  "homepage": "https://github.com/luke-h1/reddit-imagesearch-app#readme"
+}

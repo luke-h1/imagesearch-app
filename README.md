@@ -1,10 +1,9 @@
 # imagesearch-app
-tutorial from: https://github.com/CodingGarden/frontend-framework-showdown-2020 
+tutorial from: https://github.com/CodingGarden/frontend-framework-showdown-2020  
+
+## GOALS : 
+ * Move away from CJ's API and try to implement the reddit API in this app 
+ * study reddit API and figure out how to Implement OAuth without revealing secrets in .env 
 
 
-## TO-DO : 
- * Move away from reddit wrapper api 
- * figure out the reddit API  
- * implement oauth and hide secrets in either .env or some other method 
- * Allow user to query all subreddit for search term 
  

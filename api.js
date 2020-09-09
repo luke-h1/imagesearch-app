@@ -1,4 +1,6 @@
-const API_URL = `https://nature-image-api.now.sh/search?q=` ; 
+// const API_URL = `https://nature-image-api.now.sh/search?q=` ;  
+
+const API_URL = `https://api.unsplash.com/search/photos?query=`
 
 export default async function getImages(searchTerm) { 
     const response = await fetch (`${API_URL}${searchTerm}`); 
